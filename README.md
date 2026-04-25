@@ -1,4 +1,4 @@
-# Muhammet Dikmetaş | AI Engineer & Computer Vision Developer
+# Muhammet Dikmetaş | AI Engineer
 
 <p align="center">
   <i>"Karmaşık verilerden anlamlı çıktılar üreterek, uçtan uca mühendislik çözümleri geliştiriyorum."</i>
@@ -7,7 +7,7 @@
 ---
 
 ## 👋 Hakkımda
-2022'den bu yana Bilgisayar Mühendisliği eğitimim boyunca, temel yazılım disiplinlerini ve algoritma mantığını en iyi şekilde kavramaya odaklandım. C ve C++ dilleriyle edindiğim yapısal programlama yetkinliğimi, Python ile uygulama geliştirme süreçlerine taşıyorum. Benim için mühendislik; sadece kod yazmak değil, karmaşık problemleri en verimli algoritmalarla çözebilme disiplinidir. Meraklı, analitik düşünen ve sürekli yeni teknolojileri deneyimleyen bir yaklaşımla, kendi mühendislik vizyonumu inşa ediyorum.
+2022'den bu yana Bilgisayar Mühendisliği eğitimim boyunca, temel yazılım disiplinlerini ve algoritma mantığını en iyi şekilde kavramaya odaklandım. C ve C++ ile edindiğim yapısal programlama yetkinliğimi, Python ile uygulama geliştirme süreçlerine taşıyorum. Benim için mühendislik; sadece kod yazmak değil, karmaşık problemleri en verimli algoritmalarla çözebilme disiplinidir. Meraklı, analitik düşünen ve sürekli yeni teknolojileri deneyimleyen bir yaklaşımla, kendi mühendislik vizyonumu inşa ediyorum.
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Deneyim & Gelişim
+## 🚀 Deneyim ve Gelişim
 
 * **Staj:** Yazılım süreçlerinde RPA teknolojileri ile iş akışlarının otomasyonu ve makine öğrenmesi uygulamaları üzerine gerçek dünya projelerinde yer aldım.
 * **Uygulamalı Çalışmalar:** Kredi kartı riski, fiyat tahminleme ve veri analitiği gibi farklı alanlarda uçtan uca veri setleri üzerinde modelleme çalışmaları yürütüyorum.
