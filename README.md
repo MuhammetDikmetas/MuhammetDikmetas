@@ -1,10 +1,6 @@
 # Muhammet Dikmetaş | AI Engineer
 
-<p align="center">
-  <i>"Karmaşık verilerden anlamlı çıktılar üreterek, uçtan uca mühendislik çözümleri geliştiriyorum."</i>
-</p>
 
----
 
 ## 👋 Hakkımda
 2022'den bu yana Bilgisayar Mühendisliği eğitimim boyunca, temel yazılım disiplinlerini ve algoritma mantığını en iyi şekilde kavramaya odaklandım. C ve C++ ile edindiğim yapısal programlama yetkinliğimi, Python ile uygulama geliştirme süreçlerine taşıyorum. Benim için mühendislik; sadece kod yazmak değil, karmaşık problemleri en verimli algoritmalarla çözebilme disiplinidir. Meraklı, analitik düşünen ve sürekli yeni teknolojileri deneyimleyen bir yaklaşımla, kendi mühendislik vizyonumu inşa ediyorum.
@@ -37,4 +33,4 @@
 
 ---
 
-*"Mühendislik, verinin içindeki karmaşayı çözüp onu anlamlı bir değere dönüştürme sanatıdır."*
+
