@@ -1,4 +1,5 @@
-# Muhammet Dikmetaş | Computer Engineering Student
+
+# Muhammet Dikmetaş | AI Engineer & Computer Vision Developer
 
 <p align="center">
   <i>"Karmaşık verilerden anlamlı çıktılar üreterek, uçtan uca mühendislik çözümleri geliştiriyorum."</i>
@@ -7,9 +8,7 @@
 ---
 
 ## 👋 Hakkımda
-2022'den bu yana Bilgisayar Mühendisliği eğitimim boyunca, temel yazılım disiplinlerini ve algoritma mantığını en iyi şekilde kavramaya odaklandım. C ve C++ ile edindiğim yapısal programlama yetkinliğimi, Python ile uygulama geliştirme süreçlerine taşıyorum. Benim için mühendislik; sadece kod yazmak değil, karmaşık problemleri en verimli algoritmalarla çözebilme disiplinidir. Meraklı, analitik düşünen ve sürekli yeni teknolojileri deneyimleyen bir yaklaşımla kendi mühendislik vizyonumu inşa ediyorum.
-
----
+2022'den bu yana Bilgisayar Mühendisliği eğitimim boyunca, temel yazılım disiplinlerini ve algoritma mantığını en iyi şekilde kavramaya odaklandım. C ve C++ dilleriyle edindiğim yapısal programlama yetkinliğimi, Python ile uygulama geliştirme süreçlerine taşıyorum. Benim için mühendislik; sadece kod yazmak değil, karmaşık problemleri en verimli algoritmalarla çözebilme disiplinidir. Meraklı, analitik düşünen ve sürekli yeni teknolojileri deneyimleyen bir yaklaşımla, kendi mühendislik vizyonumu inşa ediyorum.
 
 ## 🛠️ Teknik Yetkinliklerim ve Uzmanlık Alanlarım
 
