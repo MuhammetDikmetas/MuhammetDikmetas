@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Deneyim ve Gelişim
+## 🚀 Çalışmalar
 
 * **Staj:** Yazılım süreçlerinde RPA teknolojileri ile iş akışlarının otomasyonu ve makine öğrenmesi uygulamaları üzerine gerçek dünya projelerinde yer aldım.
 * **Uygulamalı Çalışmalar:** Kredi kartı riski, fiyat tahminleme ve veri analitiği gibi farklı alanlarda uçtan uca veri setleri üzerinde modelleme çalışmaları yürütüyorum.
